@@ -173,34 +173,6 @@ Patient is Diabetic
 
 ---
 
-# ▶️ How to Run
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/Diabetes-Prediction-Using-SVM.git
-```
-
----
-
-## 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 3️⃣ Run Notebook
-
-Open Jupyter Notebook or Google Colab and run:
-
-```text
-diabetes_prediction.ipynb
-```
-
----
-
 # 📌 Future Improvements
 
 🚀 Deploy using Streamlit  
