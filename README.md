@@ -183,15 +183,6 @@ Patient is Diabetic
 
 ---
 
-# 🤝 Connect With Me
-
-### 💼 LinkedIn
-Add your LinkedIn profile here
-
-### 💻 GitHub
-Add your GitHub profile here
-
----
 
 # ⭐ If you like this project
 
